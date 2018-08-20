@@ -1,0 +1,14 @@
+{
+    "database": {
+        "user": "sa",
+        "password": "soliton@123",
+        "port": "1434",
+        "server": "SATHEESHVARMA\\CUBO",
+        "database": "CUBO",
+        "requestTimeout": 100000,
+        "options": {
+            "encrypt": true
+        }
+    },
+    "folderLocation": "D:\\CUBO-SampleData"
+}
