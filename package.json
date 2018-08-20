@@ -1,0 +1,20 @@
+{
+  "name": "cubo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "chokidar": "^2.0.4",
+    "express": "^4.16.3",
+    "https": "^1.0.0",
+    "mssql": "^4.1.0",
+    "request": "^2.88.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
